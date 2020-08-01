@@ -1,20 +1,30 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on Machine Learning.
 - :blue_heart: I am interested in Data Science and :penguin: GNU/Linux .
 - 🌱 I’m currently learning 
 :heavy_check_mark:  :link:  :pushpin: :v:
-<img src="gfgfhgfj" title="FVCproductions" alt="deneme">
 
-:mortar_board:
 
 ----
 
-**İlgi Alanlarım**
+### İlgi Alanlarım
+
+:pushpin:
+
+:pushpin:
+
+:pushpin:
 
 --- 
 
-## Neler var sayfamda? 
+### Neler var sayfamda? 
+
+:heavy_check_mark:
+
+:heavy_check_mark:
+
+:heavy_check_mark:
 
 
 > If your `README` has a lot of info, section headers might be nice.
