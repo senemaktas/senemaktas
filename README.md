@@ -8,11 +8,11 @@
 
 ### Technologies & Languages
 
-:pushpin: Python
+:pushpin: Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :pushpin: R            
 
-:pushpin: OpenCV
+:pushpin: OpenCV&nbsp;&nbsp;&nbsp; :pushpin: C
 
-:pushpin: NLP
+:pushpin: NLP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    :pushpin: Keras
 
 --- 
 
