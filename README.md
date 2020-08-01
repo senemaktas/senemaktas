@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning.
+- :telescope: I’m currently working on Machine Learning.
 - :blue_heart: I am interested in Data Science and :penguin: GNU/Linux .
-- 🌱 :v: I am currently trying to improve my knowledge of Python.
+- :seedling: :v: I am currently trying to improve my knowledge of Python.
 
 
 
 ----
 
-### İlgi Alanlarım
+### Technologies & Languages
 
 :pushpin:
 
@@ -18,7 +18,7 @@
 
 --- 
 
-### Neler var sayfamda? 
+### What's on my GitHub page?
 
 :heavy_check_mark:
 
