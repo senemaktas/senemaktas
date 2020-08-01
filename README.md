@@ -2,17 +2,17 @@
 
 - :telescope: I’m currently working on Machine Learning.
 - :blue_heart: I am interested in Data Science and :penguin: GNU/Linux .
-- :seedling: :v: I am currently trying to improve my knowledge of Python.
+- :seedling: I am currently trying to improve my knowledge of Python.
 
 ----
 
 ### Technologies & Languages
 
-:pushpin:
+:pushpin: Python
 
-:pushpin:
+:pushpin: OpenCV
 
-:pushpin:
+:pushpin: NLP
 
 --- 
 
@@ -25,9 +25,8 @@
 :heavy_check_mark:
 
 
-> If your `README` has a lot of info, section headers might be nice.
 
-
+> Note: I like to learn new things. I am trying to share on this page by coding examples of things what I wonder.  :v:
 
 ---
 
