@@ -4,8 +4,6 @@
 - :blue_heart: I am interested in Data Science and :penguin: GNU/Linux .
 - :seedling: :v: I am currently trying to improve my knowledge of Python.
 
-
-
 ----
 
 ### Technologies & Languages
