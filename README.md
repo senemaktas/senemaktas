@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- :telescope: I’m currently working on Machine Learning.
-- :blue_heart: I am interested in Data Science and :penguin: GNU/Linux .
-- :seedling: I am currently trying to improve my knowledge of Python.
+- I’m currently working on Machine Learning.
+- I’minterested in Data Science and :penguin: GNU/Linux . And I’m currently trying to improve my knowledge of Python.
 
 ----
 
