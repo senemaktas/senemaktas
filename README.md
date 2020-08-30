@@ -16,11 +16,11 @@
 
 ### What's on my GitHub page?
 
-:heavy_check_mark: I enjoy making websites with HTML CSS and JS (Web-FrontEnd repository). There are separate samples in the "FlaskExamples" folder in the Python-Coding repository.
+:heavy_check_mark: Various websites with HTML CSS and JS ... Also examples with Flask ..
 
-:heavy_check_mark:
+:heavy_check_mark: Coding with languages such as R, C, Python....
 
-:heavy_check_mark:
+:heavy_check_mark: Visualization for understanding data .... and so on :palm_tree:
 
 
 
