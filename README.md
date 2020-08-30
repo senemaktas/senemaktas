@@ -16,7 +16,7 @@
 
 ### What's on my GitHub page?
 
-:heavy_check_mark: I enjoy making websites with HTML CSS and JS. (Web-FrontEnd repository)
+:heavy_check_mark: I enjoy making websites with HTML CSS and JS (Web-FrontEnd repository). There are separate samples in the "FlaskExamples" folder in the Python-Coding repository.
 
 :heavy_check_mark:
 
