@@ -16,7 +16,7 @@
 
 ### What's on my GitHub page?
 
-:heavy_check_mark: I enjoy making websites with HTML CSS and JS. 
+:heavy_check_mark: I enjoy making websites with HTML CSS and JS. (Web-FrontEnd repository)
 
 :heavy_check_mark:
 
