@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I’m currently working on Machine Learning.
-- I’m interested in Data Science and :penguin: GNU/Linux . And I’m currently trying to improve my knowledge of Python.
+- I’m interested in Data Science and :penguin: GNU/Linux .
 
 ----
 
