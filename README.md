@@ -12,24 +12,10 @@
 :pushpin: OpenCV &nbsp;&nbsp;&nbsp; :pushpin: NLP &nbsp;&nbsp; :pushpin: Keras   &nbsp;&nbsp;&nbsp;&nbsp; :pushpin: Visualization
 
 
---- 
-
-### What's on my GitHub page?
-
-:heavy_check_mark: Various websites with HTML CSS and JS ... Also examples with Flask ..
-
-:heavy_check_mark: Coding with languages such as R, C, Python....
-
-:heavy_check_mark: Visualization for understanding data .... and so on :palm_tree:
-
-
-
-> Note: I like to learn new things. I am trying to share on this page by coding examples of things what I wonder.  :v:
-
 ---
 
 <!--
 **senemaktas/senemaktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
-
-![Senem's github stats](https://github-readme-stats.vercel.app/api?username=senemaktas&show_icons=true&theme=radical)
+![Senem's github stats](https://github-readme-stats.vercel.app/api?username=senemaktas&show_icons=true&theme=prussian&hide=contribs,prs&count_private=true&text_color=ffffff&title_color=fe0278)
