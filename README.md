@@ -5,7 +5,7 @@
 
 ----
 
-### Technologies & Languages
+### What's on my github page?
 
 :pushpin: Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :pushpin: R  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :pushpin: C  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :pushpin: HTML&CSS&JS    &nbsp;&nbsp;&nbsp;&nbsp;  :pushpin: Flask
 
