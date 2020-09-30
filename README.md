@@ -6,10 +6,10 @@
 ----
 
 ### What's on my github page?
-|                       |                    |                   |                              |                      |
-|-----------------------|--------------------|-------------------|------------------------------|----------------------|
-| :pushpin: Python      | :pushpin: R        | :pushpin: C       |  :pushpin: HTML & CSS & JS   |  :pushpin: Flask     |
-| :pushpin: OpenCV      | :pushpin: NLP      | :pushpin: Keras   | :pushpin: Visualization      |                      |
+|                       |                    |                   |                              |                                 |
+|-----------------------|--------------------|-------------------|------------------------------|---------------------------------|
+| :pushpin: Python      | :pushpin: R        | :pushpin: C       |  :pushpin: HTML & CSS & JS   |  :pushpin: Flask                |
+| :pushpin: OpenCV      | :pushpin: NLP      | :pushpin: Keras   | :pushpin: Visualization      |  :pushpin: Parallel Programming |
 
 ---
 
