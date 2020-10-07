@@ -2,7 +2,7 @@
 
 - I’m currently working on Machine Learning.
 - I’m interested in Data Science and :penguin: GNU/Linux .
-- If you want to see my portfolio: https://senemaktas.github.io/ :tree:
+- If you want to see my portfolio: https://senemaktas.github.io/ 
 
 ----
 
