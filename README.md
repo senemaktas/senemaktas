@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there , I am Senem👋
 
 - I’m currently working on Machine Learning.
 - I’m interested in Data Science and :penguin: GNU/Linux .
