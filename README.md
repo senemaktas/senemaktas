@@ -3,7 +3,7 @@
 - I’m currently working on Machine Learning.
 - I’m interested in Data Science and :penguin: GNU/Linux .
 - :bar_chart:  One of my goals is to contribute mathematically and statistically to this area.
-- If you want to see my portfolio: https://senemaktas.github.io/ 
+- If you want to see my portfolio: https://senemaktas.github.io/ (In the editing phase)
 
 ----
 
