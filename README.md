@@ -1,7 +1,7 @@
 ## Hi there , I am Senem👋
 
 - I’m currently working on Machine Learning.
-- I’m interested in Data Science and :penguin: GNU/Linux .
+- I’m interested in Data Science and :penguin: GNU/Linux and Website creation.
 - :bar_chart:  One of my goals is to contribute mathematically and statistically to this area.
 - If you want to see my portfolio: https://senemaktas.github.io/ (In the editing phase)
 
