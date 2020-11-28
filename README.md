@@ -17,7 +17,8 @@
 
 <!--
 **senemaktas/senemaktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula 
+-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula   
+
 
 ![Senem's github stats](https://github-readme-stats.vercel.app/api?username=senemaktas&show_icons=true&theme=prussian&hide=contribs,prs&count_private=true&text_color=ffffff&title_color=fe0278)  -->
 
