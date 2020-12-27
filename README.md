@@ -23,5 +23,7 @@
 -- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula   
 
 
-![Senem's github stats](https://github-readme-stats.vercel.app/api?username=senemaktas&show_icons=true&theme=prussian&hide=contribs,prs&count_private=true&text_color=ffffff&title_color=fe0278)  -->
+![Senem's github stats](https://github-readme-stats.vercel.app/api?username=senemaktas&show_icons=true&theme=prussian&hide=contribs,prs&count_private=true&text_color=ffffff&title_color=fe0278)  
+
+[![reponame](https://github-readme-stats.vercel.app/api/pin/?username=senemaktas&repo=reponame&show_owner=true)](https://github.com/link/repo) -->
 
