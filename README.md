@@ -16,7 +16,6 @@
 ---
 
 ![Senem's github stats](https://github-readme-stats.vercel.app/api?username=senemaktas&show_icons=true&theme=prussian&count_private=true&text_color=ffffff&title_color=fe0278)
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=senemaktas&layout=compact)
 
 <!--
