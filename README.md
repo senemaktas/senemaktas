@@ -18,6 +18,7 @@
 <img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-plain.svg" alt="linux" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bash/bash-plain.svg" alt="bash" width="50" height="50"/> 
+
 ---
 
 
