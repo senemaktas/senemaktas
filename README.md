@@ -3,16 +3,7 @@
 ---
 
 ### 🧰 Toolbox
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-plain.svg" alt="python" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/r/r-plain.svg" alt="r" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-plain.svg" alt="java" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-plain.svg" alt="C" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/csharp/csharp-plain.svg" alt="cs" width="90" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/django/django-plain.svg" alt="django" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/docker/docker-plain.svg" alt="docker" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-plain.svg" alt="python" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/r/r-plain.svg" alt="r" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-plain.svg" alt="java" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-plain.svg" alt="C" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/csharp/csharp-plain.svg" alt="cs" width="90" height="50"/> <img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/django/django-plain.svg" alt="django" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/docker/docker-plain.svg" alt="docker" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-plain.svg" alt="linux" width="50" height="50"/>
