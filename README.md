@@ -8,7 +8,7 @@
 <img src="images/r-plain.svg" alt="r" width="50" height="50"/> <img src="images/java-plain.svg" alt="java" width="50" height="50"/> 
 <img src="images/c-plain.svg" alt="C" width="50" height="50"/> <img src="images/csharp-plain.svg" alt="cs" width="90" height="50"/> 
 <img src="images/django-plain.svg" alt="django" width="60" height="60"/> <img src="images/docker-plain.svg" alt="docker" width="50" height="50"/>
-<img src="images/postgresql-plain.svg" alt="PostgreSQL" width="50" height="50"/> <img src="images/git-plan.svg" alt="Git" width="50" height="50"/>
+<img src="images/postgresql-plain.svg" alt="PostgreSQL" width="50" height="50"/> <img src="images/go-plain.svg" alt="go" width="50" height="50"/>
 <img src="images/linux-plain.svg" alt="linux" width="50" height="50"/> <img src="images/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/>
 <img src="images/bash-plain.svg" alt="bash" width="50" height="50"/> 
 
