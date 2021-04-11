@@ -21,14 +21,6 @@
 - :bar_chart:  One of my goals is to contribute mathematically and statistically to this area.
 - If you want to see my portfolio: https://senemaktas.github.io/ 
 
-----
-
-### What's on my github page?
-|                       |                    |                   |                              |                          |                                    |
-|-----------------------|--------------------|-------------------|------------------------------|--------------------------|------------------------------------|
-| :pushpin: Python      | :pushpin: R        | :pushpin: C       |  :pushpin: HTML & CSS & JS   |  :pushpin: Flask         |  :pushpin: Machine Learning        |
-| :pushpin: OpenCV      | :pushpin: NLP      | :pushpin: Keras   | :pushpin: Visualization      |  :pushpin: LaTeX         |  :pushpin: Parallel Programming    |
-
 --- -->
 
 ![Senem's github stats](https://github-readme-stats.vercel.app/api?username=senemaktas&show_icons=true&theme=prussian&count_private=true&text_color=ffffff&title_color=fe0278) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=senemaktas&layout=compact)
@@ -41,3 +33,10 @@
 ![Senem's github stats](https://github-readme-stats.vercel.app/api?username=senemaktas&show_icons=true&theme=prussian&hide=contribs,prs&count_private=true&text_color=ffffff&title_color=fe0278)  
 
 [![reponame](https://github-readme-stats.vercel.app/api/pin/?username=senemaktas&repo=reponame&show_owner=true)](https://github.com/link/repo) -->
+
+<!-- 
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://--.medium.com)
+[![](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/../)
+[![Mail Badge](https://img.shields.io/badge/---@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:b---@gmail.com)](mailto:---@gmail.com) -->
