@@ -13,6 +13,12 @@
 <img src="images/bash-plain.svg" alt="bash" width="50" height="50"/> 
 
 ---
+---
+
+### 🧰 Want to Learn Deeply
+
+- CI/CD techniques
+- Docker
 
 
 <!--
