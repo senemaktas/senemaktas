@@ -17,8 +17,9 @@
 
 ### 🧰 Want to Learn Deeply
 
-- CI/CD techniques
+- CI/CD | Continuous Integration | Delivery | Deployment
 - Docker
+- - DevOPS
 
 
 <!--
