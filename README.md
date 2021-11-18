@@ -7,13 +7,12 @@
 <img src="images/linux-plain.svg" alt="linux" width="50" height="50"/> <img src="images/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/>
 <img src="images/bash-plain.svg" alt="bash" width="50" height="50"/> 
 
-<!--
+
 - I’m currently working on Machine Learning & Deep Learning area.
 - I am enjoying to work with different type of data such as text, video , audio. 
 - :bar_chart:  One of my goals is to contribute mathematically and statistically to this area.
 - If you want to see my portfolio: https://senemaktas.github.io/ 
 
---- -->
 
 ![Senem's github stats](https://github-readme-stats.vercel.app/api?username=senemaktas&show_icons=true&theme=prussian&count_private=true&text_color=ffffff&title_color=fe0278) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=senemaktas&layout=compact)
 
