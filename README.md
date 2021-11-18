@@ -8,7 +8,7 @@
 <img src="images/bash-plain.svg" alt="bash" width="50" height="50"/> 
 
 
-- I’m currently working on Machine Learning & Deep Learning area.
+- I’m currently working on Machine Learning & Deep Learning Industrial and Retail Applications.
 - I am enjoying to work with different type of data such as text, video , audio. 
 - :bar_chart:  One of my goals is to contribute mathematically and statistically to this area.
 - If you want to see my portfolio: https://senemaktas.github.io/ 
