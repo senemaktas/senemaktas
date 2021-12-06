@@ -8,8 +8,6 @@
 <img src="images/bash-plain.svg" alt="bash" width="50" height="50"/> 
 
 
-- I’m currently working on Machine Learning & Deep Learning Industrial and Retail Applications.
-- :bar_chart:  One of my goals is to contribute mathematically and statistically to this area.
 - If you want to see my portfolio: https://senemaktas.github.io/ 
 
 
