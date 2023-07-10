@@ -1,4 +1,8 @@
-### 🧰 Toolbox
+### 🧰 Computer Vision , Image Processing, Python, OpenCV, Tensorflow, Keras
+
+
+
+<!-- YOLO, Pose Estimation, Object Detection - Tracking  Toolbox
 <img src="images/css3-plain.svg" alt="CSS" width="50" height="50"/> <img src="images/html5-plain.svg" alt="HTML" width="50" height="50"/>
 <img src="images/javascript-plain.svg" alt="JavaScript" width="50" height="50"/> <img src="images/python-plain.svg" alt="python" width="50" height="50"/> 
 <img src="images/r-plain.svg" alt="r" width="50" height="50"/> <img src="images/java-plain.svg" alt="java" width="50" height="50"/> 
@@ -6,7 +10,7 @@
 <img src="images/django-plain.svg" alt="django" width="60" height="60"/> <img src="images/docker-plain.svg" alt="docker" width="50" height="50"/>
 <img src="images/linux-plain.svg" alt="linux" width="50" height="50"/> <img src="images/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/>
 <img src="images/bash-plain.svg" alt="bash" width="50" height="50"/> 
-
+ -->
 
 ![Senem's github stats](https://github-readme-stats.vercel.app/api?username=senemaktas&show_icons=true&theme=tokyonight&count_private=true&text_color=ffffff&title_color=fe0278) 
 
