@@ -14,7 +14,7 @@
 
 ![Senem's github stats](https://github-readme-stats.vercel.app/api?username=senemaktas&show_icons=true&theme=tokyonight&count_private=true&text_color=ffffff&title_color=fe0278) 
 
-- my portfolio: https://senemaktas.github.io/ 
+<!-- - my portfolio: https://senemaktas.github.io/   -->
 
 <!--  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=senemaktas&layout=compact)
 ![Visitor Count](https://profile-counter.glitch.me/{senemaktas}/count.svg)
